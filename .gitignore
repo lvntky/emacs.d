@@ -1,0 +1,7 @@
+/auto-save-list
+/backup
+#init.el#
+init.el~
+lsp-session-v1
+recentf
+projectile-bookmarks.eld
