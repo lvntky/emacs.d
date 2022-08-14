@@ -1,1 +1,0 @@
-("~/.emacs.d/" "~/Projects/disint8080/" "~/Projects/coffeeCH8/" "~/Projects/blog/" "~/Documents/oss_conts/tilck/" "~/Projects/GBEmulator/include/" "~/Projects/GBEmulator/" "~/st-0.8.3/" "~/Junk/sjasmplus-master/" "~/Junk/tnylpo/" "~/Projects/memory_allocator/")
